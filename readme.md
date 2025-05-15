@@ -72,7 +72,7 @@ This is the first screen users see. A carousel with bookstore-themed images invi
 ![Home Page Carousel](/assets/1.PNG)
 
 
-After entering the email student@student.uni-pr.edu, the application displays the quiz questions with two options: True and False. Users have the ability to navigate to the previous question to revise their answers if needed.
+Users can explore books by selecting a genre. Only the selected category is displayed, creating a focused shopping experience.
 
 ![Genre Browsing](/assets/2.PNG)
 
@@ -89,5 +89,6 @@ The Contact section includes a map showing the bookstore’s location and a mode
 # Hosting
 
 The project is hosted on:
+https://lilys-bookstore.vercel.app/
 
 
