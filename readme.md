@@ -40,9 +40,9 @@
 This is a frontend-only project. To run it locally:
 
 - *Clone the Repository: git clone:*    
-https://github.com/gresajasharii/quiz_app
+https://github.com/gresajasharii/lilys-bookstore
 - *cd bookstore*
-- *open app.html*
+- *open index.html*
 
 
 # Project Structure
