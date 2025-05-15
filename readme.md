@@ -1,4 +1,4 @@
-# Online Quiz Application
+# Lily's Bookstore
 
 **Lily's Bookstore** is a responsive e-commerce web application built to simulate a charming online bookstore. Users can browse books by genre, add items to a cart, and simulate the shopping experience. It features genre filtering, local storage-based cart persistence, and a clean, accessible interface.
 
